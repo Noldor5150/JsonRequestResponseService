@@ -7,5 +7,6 @@ namespace JsonRequestResponseService.Models
 {
     public class GarageResponse
     {
+        public string Result { get; set; }
     }
 }
